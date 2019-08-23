@@ -19,20 +19,16 @@ fg.src="images/fg.png";
 pipeNorth.src="images/pipeNorth.png";
 pipeSouth.src="images/pipeSouth.png";
 
-//some variable
-var gap =pipeNorth.height+85;
-
 //bird initial position
 var bX=10;
 var bY=150;
-
 
 var gravity=1;
 var score=0;
 
 //audio files
-var fly=new Audio();
-var scoring= new Audio();
+//var fly=new Audio();
+//var scoring= new Audio();
 
 //fly.src="";
 //scoring.src="";
